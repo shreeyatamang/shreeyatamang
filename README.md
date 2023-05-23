@@ -2,8 +2,6 @@
 <h3 align="center">Computer engineering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyatamang&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyatamang" /> </p>
 
-- ⚡ Fun fact **I am optimistic😒**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreeyatamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeyatamang" height="30" width="40" /></a>
