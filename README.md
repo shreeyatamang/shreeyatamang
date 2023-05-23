@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeya Tamang</h1>
 <h3 align="center">Computer engineering student</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=%2f0%2b3OH8H&id=F17D179CBBCAD33EBB80AFAA426BFCC7450A106C&thid=OIP._0-3OH8HMeReUCV950baIgHaFj&mediaurl=https%3a%2f%2fi1.wp.com%2fclydeoffices.co.uk%2fwp-content%2fuploads%2f2019%2f12%2fsupport-animation.gif%3ffit%3d800%252C600%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ff4fb7387f0731e45e50257de746da22%3frik%3dbBAKRcf8a0Kqrw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=GIRL+programer+GIF&simid=608051547224877660&FORM=IRPRST&ck=90BA5338D71799D903C125D8E14CF9B9&selectedIndex=13&ajaxhist=0&ajaxserp=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyatamang&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyatamang" /> </p>
 
 - ⚡ Fun fact **I am optimistic😒**
