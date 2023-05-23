@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeya Tamang</h1>
-<h3 align="center">Computer engineering student</h3>
-<img align="right" alt="coding" width="400" src="https:// https://user-images.githubusercontent...">
-
-- ⚡ Fun fact **I am optimistic😒**
+<h3 align="center">Computer engineering student</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
